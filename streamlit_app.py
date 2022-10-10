@@ -38,7 +38,7 @@ try:
        # write your own comment - what does this do?
        streamlit.dataframe(back_from_function)
 except URLError as e:
-    lstreamlit.error()
+       streamlit.error()
       
       #streamlit.text(fruityvice_response.json())
 
